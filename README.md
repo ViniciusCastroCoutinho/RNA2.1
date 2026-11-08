@@ -6,3 +6,7 @@ Supervisionado do neurônio Perceptron de Rosenblatt aplicado em problemas de cl
 3. Tentando resolver um problema não linearmente separável  
 
 Para maiores detalhes, veja o pdf.
+
+## Equipe:
+Izabella de Lima Catrinck  
+Vinícius Castro Coutinho
